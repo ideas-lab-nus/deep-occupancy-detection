@@ -1,5 +1,11 @@
-# cot-phoenix
+# Occupancy prediction using deep learning approaches across multiple space types: A minimum sensing strategy
 This repository contains the source code for the feature selection algorithm and deep learning models (DNN, GRU, bi-GRU, LSTM, bi-LSTM) implemented for occupancy prediction across multiple space types based on a minimum sensing approach.
+
+If you are interested in using this code, please cite our following paper:
+
+Tekler, Zeynep Duygu, and Adrian Chong. "Occupancy prediction using deep learning approaches across multiple space types: A minimum sensing strategy." Building and Environment 226 (2022): 109689.
+
+
 
 ## Data 
 Dataset used to perform occupant count predictions can be found here:
